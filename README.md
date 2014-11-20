@@ -16,11 +16,13 @@ Check our the following pages for more information about the project:
 * development: https://github.com/dsebastien/openSourceAlarm/wiki/Development
 
 ## Authors
-Sebastien Dubois
-
+### Sebastien Dubois
 * [@Blog](http://www.dsebastien.net)
 * [@Twitter](http://twitter.com/dSebastien)
 * [@GitHub](http://github.com/dSebastien)
+
+### Almex
+* [@GitHub](http://github.com/almex)
 
 ## License
 This project and all associated source code is licensed under the terms of the [MIT License](http://en.wikipedia.org/wiki/MIT_License).
