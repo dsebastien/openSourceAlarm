@@ -15,6 +15,9 @@ Check our the following pages for more information about the project:
 * wiki: https://github.com/dsebastien/openSourceAlarm/wiki
 * development: https://github.com/dsebastien/openSourceAlarm/wiki/Development
 
+## Mailing list
+You've got a question? Ask it on our [mailing list](https://groups.google.com/forum/#!forum/ossalarm).
+
 ## Authors
 ### Sebastien Dubois
 * [@Blog](http://www.dsebastien.net)
