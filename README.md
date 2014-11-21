@@ -7,6 +7,10 @@
 This project is in a very early stage, we're just thinking about the requirements and high level architecture.
 Interested in participating? Check out the development page on the wiki: https://github.com/dsebastien/openSourceAlarm/wiki/Development
 
+Given the current status, feel free to share your thoughts:
+* on the [ideas page](https://github.com/dsebastien/openSourceAlarm/wiki/Ideas)
+* on the [mailing list](https://groups.google.com/forum/#!forum/ossalarm)
+
 Don't hesitate to join us and share your ideas!
 
 ## Documentation
